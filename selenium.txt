@@ -1,0 +1,1 @@
+selenium is used to automate the web browsers that's it.
